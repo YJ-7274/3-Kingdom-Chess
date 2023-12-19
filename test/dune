@@ -1,0 +1,3 @@
+(test
+ (name main)
+ (libraries raylib ounit2))

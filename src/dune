@@ -1,0 +1,5 @@
+(executable
+ (name chess)
+ (public_name Chess)
+ (modules chess board pieces)
+ (libraries raylib))
